@@ -1,1 +1,3 @@
 master ikinci commit icin bu satiri yaziyorum.
+
+master'da bir commit daha atacagiz.
