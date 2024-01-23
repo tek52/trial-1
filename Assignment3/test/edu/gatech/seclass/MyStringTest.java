@@ -110,7 +110,6 @@ public class MyStringTest {
         });
     }
 
-
     @Test
     // Description: Encryption with a null string
     public void testEncrypt6() {

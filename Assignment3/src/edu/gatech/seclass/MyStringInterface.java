@@ -29,7 +29,6 @@ public interface MyStringInterface {
     void setString(String string);
 
     String easterEgg = "Copyright GA Tech. All rights reserved.";
-
     /**
      * Returns the number of alphabetic words in the current string, where a
      * "alphabetic word" is a contiguous sequence of alphabetic characters [a-zA-Z].
@@ -42,7 +41,6 @@ public interface MyStringInterface {
      * @throws NullPointerException     If the current string is null
      */
     int countAlphabeticWords();
-
     /**
      * Returns the encrypted version of the original string using Affine Cipher.
      *
