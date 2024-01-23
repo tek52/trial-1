@@ -113,5 +113,6 @@ public interface MyStringInterface {
      * @throws MyIndexOutOfBoundsException If "finalPosition" is out of bounds (i.e., greater than the length of the
      *                                     string), 1 <= "firstPosition" <= "finalPosition", and the string is not null
      */
+
     void convertDigitsToNamesInSubstring(int firstPosition, int finalPosition);
 }

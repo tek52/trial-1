@@ -4,6 +4,7 @@ public class MyString implements MyStringInterface {
 
     private String currentString;
 
+
     @Override
     public String getString() {
         return currentString;
