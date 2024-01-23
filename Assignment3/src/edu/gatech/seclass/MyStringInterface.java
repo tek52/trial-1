@@ -104,6 +104,7 @@ public interface MyStringInterface {
      *   converted to "I'd b3tt3r put sZerome dOneSix1ts in this 5tr1n6, right?"
      * - String "abc416d", with firstPosition=2 and finalPosition=7 would be converted to "abcFourOneSixd"
      *
+     *
      * @param firstPosition Position of the first character to consider
      * @param finalPosition   Position of the last character to consider
 
